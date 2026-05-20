@@ -54,7 +54,7 @@ gameName = " Cricket ";
 console .log(gameName)
 
 const Name = "prashant" ;
-const lastname ="kumar"
+
 
 
 
