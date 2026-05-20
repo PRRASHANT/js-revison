@@ -45,6 +45,17 @@ let getscore = age ;
 console.log(getscore);
 
 
+// cahnges 
+
+let gameName = " Football ";
+console .log(gameName)
+gameName = " Cricket "; 
+
+console .log(gameName)
+
+const Name = "prashant" ;
+
+
 
 
 
