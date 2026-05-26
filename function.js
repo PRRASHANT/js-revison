@@ -29,4 +29,7 @@ let totalcost  = total(10,5)
 
 console.log(totalcost)
 
-// const total = (price,quantity) => price * quantity // implicit - everything in one line 
+const total = (price,quantity) => price * quantity // implicit - everything in one line 
+
+
+
